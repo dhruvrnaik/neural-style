@@ -135,6 +135,18 @@ If you use this implementation in your work, please cite the following:
   note = {commit xxxxxxx}
 }
 ```
+#My Example
+150 Iterations
+![output](150it.jpg)
+
+350 Iterations
+![output](350it.jpg)
+
+1000 Iterations -Final Output
+![output](1000it.jpg)
+
+![input-content](obama.jpg)
+![input-style](sn.jpg)
 
 ## License
 
